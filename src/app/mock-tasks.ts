@@ -9,13 +9,13 @@ export const TASKS : Task[] = [
   },
   {
     id:2,
-    text:"Terminar back-end de esta app",
+    text:"Hacer Api de esta app",
     day:"30/12/2021",
     reminder:true
   },
   {
     id:3,
-    text:"Leer libro de JS",
+    text:"Leer libro de JavaScript",
     day:"30/12/2021",
     reminder:true
   },
