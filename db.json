@@ -1,28 +1,3 @@
 {
-  "Tasks": [
-    {
-      "id": 1,
-      "text": "Terminar esta app",
-      "day": "25/12/2021",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Hacer Api de esta app",
-      "day": "30/12/2021",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Leer libro de JavaScript",
-      "day": "30/12/2021",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Estudiar Spring Security",
-      "day": "05/01/2022",
-      "reminder": true
-    }
-  ]
+  "Tasks": []
 }
